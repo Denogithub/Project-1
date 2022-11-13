@@ -5,7 +5,7 @@
 
 
 `sudo apt install apache2`
-![apache2 install](./images/apt-install-apache2.PNGPNG)
+![apache2 install](./images/apt-install-apache2.PNG)
 
 
 `sudo systemctl status apache2`
